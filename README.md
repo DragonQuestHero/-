@@ -2,7 +2,7 @@
 整理到的暗网网址
 
 发现了一个中文导航网站，下面的可以忽略不计了
-http://anwanglist6rbv7v.onion/?c=9503222
+http://anwanglist6rbv7v.onion/?c=950322
 
 
 之前收集的：
